@@ -2595,6 +2595,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 				a.pos.Y = a.pos.WorldY - sY;
 
 			}
+			//click位置から変換
 			mouseDisX = a.pos.X - mouseClick.X;
 			mouseDisY = a.pos.Y - mouseClick.Y;
 
