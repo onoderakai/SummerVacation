@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AL1_SummerVacation", "AL1_SummerVacation.vcxproj", "{BB325427-527A-4A8C-A210-4FCC9981559D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB325427-527A-4A8C-A210-4FCC9981559D}.Debug|x64.ActiveCfg = Debug|x64
+		{BB325427-527A-4A8C-A210-4FCC9981559D}.Debug|x64.Build.0 = Debug|x64
+		{BB325427-527A-4A8C-A210-4FCC9981559D}.Release|x64.ActiveCfg = Release|x64
+		{BB325427-527A-4A8C-A210-4FCC9981559D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {598F5344-8913-44F1-8E30-44B565C09AD3}
+	EndGlobalSection
+EndGlobal
